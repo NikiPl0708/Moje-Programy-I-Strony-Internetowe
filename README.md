@@ -1,5 +1,5 @@
 # Proste-programy
-Są tu programy stworzone przezemnie
+<h1>Są tu programy stworzone przeze mnie</h1>
 
 <h2>Notatnik:</h2>
 Wersja nie opisana (1.0)
