@@ -14,7 +14,7 @@
   <h5>Literówka przy tworzeniu nowego pliku usunięta</h5>
   <h3>Wersja 1.2</h3>
   <h5>Dodano opcję "Zaznacz wszystko" w menu "Edycja"</h5>
-  <h2>Wersja 1.3</h2>
+  <h3>Wersja 1.3</h3>
   <h4>Od teraz, jeśli nie zostały wprowadzone zmiany, w polu tekstowym, program nie będzie się pytał o zapisanie pliku.</h4>
   
     
