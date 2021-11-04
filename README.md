@@ -3,6 +3,7 @@
 
   <h1>Notatnik:</h1>
   <h2>Wersja 1.0</h2>
+  <h5>Pierwsze wydanie<h5>
   <h5>Znaleziono błąd przez który nie działają niektóre czcionki</h5>
   <h5>Znaleziono literówkę przy tworzeniu nowego pliku</h5>
   <h3>Wersja 1.0.1</h3>
@@ -16,6 +17,4 @@
   <h5>Dodano opcję "Zaznacz wszystko" w menu "Edycja"</h5>
   <h2>Wersja 1.3</h2>
   <h4>Od teraz, jeśli nie zostały wprowadzone zmiany, w polu tekstowym, program nie będzie się pytał o zapisanie pliku.</h4>
-  
-    
   
