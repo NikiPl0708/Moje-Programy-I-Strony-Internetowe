@@ -37,4 +37,7 @@
   <h5>Dodano opcję "Zaznacz wszystko" w menu "Edycja"</h5>
   <h2>Wersja 1.3</h2>
   <h4>Od teraz, jeśli nie zostały wprowadzone zmiany, w polu tekstowym, program nie będzie się pytał o zapisanie pliku.</h4>
+    <h4>Znaleziono błąd, przez który, gdy nie zmieniono tekstu po wybraniu opcji "Nowy" (lub kliknięciu Ctrl+N) tekst nie był wyczyszczany</h4>
+    <h2>Wersja 1.3.1</h2>
+    <h4>Błąd z nie czyszczeniem tekstu naprawiony</h4>
   
