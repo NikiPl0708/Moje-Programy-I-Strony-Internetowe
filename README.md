@@ -10,7 +10,7 @@
   <h5>Dodana możliwość zmiany koloru tła</h5>
   <h2>Wersja 1.1</h2>
   <h4>Błąd z niedziałającymi czcionkami usunięty</h4>
-  <h3>Wersja 1.1.0.1</h3>
+  <h3>Wersja 1.1.1</h3>
   <h5>Wersja pokazywana w oknie "O programie" jest nie zmieniona(czyli 1.1)</h5>
   <h5>Literówka przy tworzeniu nowego pliku usunięta</h5>
   <h2>Wersja 1.2</h2>
